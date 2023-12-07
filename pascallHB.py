@@ -22,7 +22,7 @@ def binomialCoeff(n, k) :
     return res 
   
 
-n = 8
+n = 10
 
 printPascal(n) 
   
